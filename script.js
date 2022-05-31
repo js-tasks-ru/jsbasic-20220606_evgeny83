@@ -1,3 +1,6 @@
 function sayHi(){
-    alert('Hello, Git!')
+    //alert( 'Hello, Git!' );
+    console.log('Hello, Git!');
 }
+
+sayHi();
